@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DroidPractice1</string>
+    <string name="article_title">Статья</string>
+    <string name="title_h1">Что такое Kotlin?</string>
+    <string name="description_text1">Kotlin — это современный, статически типизированный язык программирования, разработанный компанией JetBrains. Он работает на Java Virtual Machine (JVM) и может использоваться совместно с Java. Официально поддерживается Google как основной язык разработки под Android.</string>
+    <string name="link_picture">https://cdn.otus.ru/media/public/c4/99/Rectangle_25403x_1-1801-c499f7.png</string>
+    <string name="link_picture2">https://coddyschool.com/upload/files/blog/1aaK.png</string>
+    <string name="description_text2">Kotlin может вызывать Java-код и наоборот. Это позволяет использовать Kotlin в существующих Java-проектах. Kotlin требует меньше кода для выполнения тех же задач, что и Java. Это упрощает чтение и поддержку. Kotlin вводит строгую систему типов с поддержкой nullable (?) и non-nullable типов, что снижает число ошибок во время выполнения. Kotlin поддерживает лямбда-выражения, функции высшего порядка и расширения, что делает его мощным инструментом для декларативного кода.</string>
+    <string name="link_card">Kotlin в Android</string>
+    <string name="comment_text">С 2017 года Google объявила Kotlin официальным языком для Android-разработки. Благодаря лаконичному синтаксису, безопасности и отличной интеграции с Android Studio, он стал стандартом в мобильной разработке.</string>
+    <string name="comment_text1">95% из 1000 самых популярных приложений на Google Play используют Kotlin в своём коде. 70% этих приложений полностью написаны на Kotlin. Более 60% профессиональных Android-разработчиков выбирают Kotlin в качестве основного языка разработки.</string>
+</resources>
